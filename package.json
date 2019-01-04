@@ -1,0 +1,34 @@
+{
+  "name": "test-crew-personnel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.5",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-regenerator-runtime": "^6.5.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1",
+    "webpack": "^4.28.3",
+    "webpack-dev-middleware": "^3.4.0",
+    "webpack-hot-middleware": "^2.24.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Temar-Alkoryb/test-crew-personnel.git"
+  },
+  "author": "Artem Rybalko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Temar-Alkoryb/test-crew-personnel/issues"
+  },
+  "homepage": "https://github.com/Temar-Alkoryb/test-crew-personnel#readme"
+}
